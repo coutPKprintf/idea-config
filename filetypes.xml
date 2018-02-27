@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;classes;rcs;target;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="broker_permissions" type="PLAIN_TEXT" />
+      <mapping pattern="basic-permission" type="PLAIN_TEXT" />
+      <mapping pattern="area" type="PLAIN_TEXT" />
+      <mapping pattern="permissions" type="PLAIN_TEXT" />
+      <mapping pattern="params" type="PLAIN_TEXT" />
+      <mapping pattern="filetype" type="PLAIN_TEXT" />
+      <mapping pattern="channel_permissions" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="jdb" type="PLAIN_TEXT" />
+      <mapping ext="propertes" type="PLAIN_TEXT" />
+      <mapping ext="log_json" type="PLAIN_TEXT" />
+      <mapping ext="warn" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

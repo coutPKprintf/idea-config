@@ -1,0 +1,282 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_71&quot;" />
+      <homePath value="/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/lib/ant-javafx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/lib/dt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/lib/javafx-mx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/lib/jconsole.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/lib/packager.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/lib/tools.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/src.zip!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pdf_table_extract-0.1-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/ez_setup-0.9-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/simplejson-3.8.2-py2.7-macosx-10.11-intel.egg" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/348993582" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 24 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_71&quot;" />
+      <homePath value="$USER_HOME$/Library/Android/sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-24/android.jar!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Android/sdk/platforms/android-24/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://developer.android.com/reference/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Android/sdk/sources/android-24" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-24" />
+    </jdk>
+    <jdk version="2">
+      <name value="Kahlua" />
+      <type value="Lua SDK" />
+      <homePath value="" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="LuaJ" />
+      <type value="Lua SDK" />
+      <homePath value="" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/IDLua/stdlibrary" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.0 virtualenv at ~/workspace/ca/caModel" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.0" />
+      <homePath value="$USER_HOME$/workspace/ca/caModel/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/workspace/ca/caModel/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/workspace/ca/caModel/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/workspace/ca/caModel/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/workspace/ca/caModel/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/495956780" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/ca/caModel_python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 (/usr/local/Cellar/python3/3.6.2/bin/python3.6)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="/usr/local/Cellar/python3/3.6.2/bin/python3.6" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1320764641" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.2 virtualenv at ~/caModel" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="$USER_HOME$/caModel/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/caModel/lib/python3.6/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/caModel/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/caModel/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1473990427" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/ca/caModel_python" />
+    </jdk>
+  </component>
+</application>

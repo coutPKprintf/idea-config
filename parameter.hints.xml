@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.alpha.business.crawler.operator.base.service.MobileService.createAction(actionName,actionRequest)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
