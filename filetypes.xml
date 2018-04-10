@@ -2,24 +2,34 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="BillDetailQueryResVo" type="PLAIN_TEXT" />
+      <mapping pattern="DidiAuthApplyResVo" type="PLAIN_TEXT" />
       <mapping pattern="repaytestdata" type="PLAIN_TEXT" />
+      <mapping pattern="DidiAccountQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="DiDiBillRepayDueResVo" type="PLAIN_TEXT" />
       <mapping pattern="DidRefundDetailQueryReqVo" type="PLAIN_TEXT" />
+      <mapping pattern="DidiUserCorrelationJdReqVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiReundListQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiTradeResVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiSupportBankListQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="RepayDetailQueryReqVo" type="PLAIN_TEXT" />
+      <mapping pattern="DidiAuthSmsVerifyReqVo" type="PLAIN_TEXT" />
+      <mapping pattern="DidiUserCorrelationJdResVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiBillPlanQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiTradeReqVo" type="PLAIN_TEXT" />
       <mapping pattern="BillDetailQueryReqVo" type="PLAIN_TEXT" />
+      <mapping pattern="DidiSupportBankNoQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiRefundListQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="RepayDetailQueryResVo" type="PLAIN_TEXT" />
+      <mapping pattern="DidiAuthSmsVerifyResVo" type="PLAIN_TEXT" />
       <mapping pattern="DidRefundDetailQueryResVo" type="PLAIN_TEXT" />
+      <mapping pattern="DidiAccountQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiBillPlanQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="RepayListQueryReqVo" type="PLAIN_TEXT" />
+      <mapping pattern="DidiSupportBankNoQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiSupportBankListQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="BillListQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="BillVo" type="PLAIN_TEXT" />
+      <mapping pattern="DidiAuthApplyReqVo" type="PLAIN_TEXT" />
       <mapping pattern="RepayListQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="DiDiBillRepayDueReqVo" type="PLAIN_TEXT" />
       <mapping pattern="BillListQueryResVo" type="PLAIN_TEXT" />
