@@ -3,7 +3,10 @@
     <extensionMap>
       <mapping pattern="repaytestdata" type="PLAIN_TEXT" />
       <mapping pattern="BillListQueryReqVo" type="PLAIN_TEXT" />
+      <mapping pattern="BillDetailQueryResVo" type="PLAIN_TEXT" />
+      <mapping pattern="BillDetailQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="BillListQueryResVo" type="PLAIN_TEXT" />
+      <mapping pattern="BillVo" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
