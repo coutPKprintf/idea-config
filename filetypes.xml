@@ -34,6 +34,7 @@
       <mapping pattern="DidiAuthSmsVerifyResVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiTradeReqVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiAuthSmsVerifyReqVo" type="PLAIN_TEXT" />
+      <mapping pattern="channel_bill" type="PLAIN_TEXT" />
       <mapping ext="pay" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
