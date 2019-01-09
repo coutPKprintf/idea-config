@@ -15,6 +15,7 @@
       <mapping pattern="DiDiBillRepayDueResVo" type="PLAIN_TEXT" />
       <mapping pattern="RepayDetailQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="repaytestdata" type="PLAIN_TEXT" />
+      <mapping pattern="BankCode" type="PLAIN_TEXT" />
       <mapping pattern="RepayListQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiAccountQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="BillDetailQueryReqVo" type="PLAIN_TEXT" />
