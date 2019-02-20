@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="DidiBillPlanQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="DiDiBillRepayDueReqVo" type="PLAIN_TEXT" />
+      <mapping pattern="BankCode" type="PLAIN_TEXT" />
       <mapping pattern="BillListQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="DidRefundDetailQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiTradeResVo" type="PLAIN_TEXT" />
@@ -15,7 +16,6 @@
       <mapping pattern="DiDiBillRepayDueResVo" type="PLAIN_TEXT" />
       <mapping pattern="RepayDetailQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="repaytestdata" type="PLAIN_TEXT" />
-      <mapping pattern="BankCode" type="PLAIN_TEXT" />
       <mapping pattern="RepayListQueryReqVo" type="PLAIN_TEXT" />
       <mapping pattern="DidiAccountQueryResVo" type="PLAIN_TEXT" />
       <mapping pattern="BillDetailQueryReqVo" type="PLAIN_TEXT" />
@@ -39,6 +39,7 @@
       <mapping ext="pay" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
