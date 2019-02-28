@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If an inbound event goes beyond the top inbound handler , it is discarded silently , or logged if it needs your attention" />
       <item value="absent" />
       <item value="distinguish" />
       <item value="It ' s interesting that we use context name rather resource name as the map key" />
